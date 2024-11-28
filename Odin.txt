@@ -1,1 +1,3 @@
 Odin ativa skill olho
+
+Skill interagi com o mundo.
